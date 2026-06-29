@@ -1,0 +1,962 @@
+{
+  "generated_at": "2026-06-29T03:28:10Z",
+  "property": "KM Bensenville",
+  "currency": "USD",
+  "meta": {
+    "categories": [
+      "Insurance",
+      "Lawn/Snow",
+      "Maintenance",
+      "Repairs"
+    ],
+    "buckets": [
+      "maintenance",
+      "insurance",
+      "tax",
+      "mortgage",
+      "utilities"
+    ],
+    "units": [
+      "Unit 1",
+      "Unit 2",
+      "Unit 3"
+    ],
+    "month_min": "2026-01",
+    "month_max": "2028-12",
+    "notes": [
+      "Insurance, property tax, and maintenance are recomputed from the Expenses transaction sheet, not the Monthly Entry columns.",
+      "The Expenses sheet has no Unit column, so per-unit maintenance is unavailable.",
+      "Property tax is currently 0 in the source data."
+    ]
+  },
+  "months": [
+    {
+      "month": "2026-01",
+      "status": "Actual",
+      "rent": 5000.0,
+      "unit_rents": [
+        1400.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.17,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 1096.97,
+      "maintenance": 346.0,
+      "other": 0.0,
+      "expenses": 3742.14,
+      "net_cash_flow": 1257.86
+    },
+    {
+      "month": "2026-02",
+      "status": "Actual",
+      "rent": 5000.0,
+      "unit_rents": [
+        1400.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 1149.46,
+      "maintenance": 410.0,
+      "other": 0.0,
+      "expenses": 3858.46,
+      "net_cash_flow": 1141.54
+    },
+    {
+      "month": "2026-03",
+      "status": "Actual",
+      "rent": 5000.0,
+      "unit_rents": [
+        1400.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 1206.3,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 3505.3,
+      "net_cash_flow": 1494.7
+    },
+    {
+      "month": "2026-04",
+      "status": "Actual",
+      "rent": 5000.0,
+      "unit_rents": [
+        1400.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 1053.08,
+      "maintenance": 410.0,
+      "other": 0.0,
+      "expenses": 3762.08,
+      "net_cash_flow": 1237.92
+    },
+    {
+      "month": "2026-05",
+      "status": "Actual",
+      "rent": 5000.0,
+      "unit_rents": [
+        1400.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 1057.22,
+      "maintenance": 565.0,
+      "other": 0.0,
+      "expenses": 3921.22,
+      "net_cash_flow": 1078.78
+    },
+    {
+      "month": "2026-06",
+      "status": "Actual",
+      "rent": 5000.0,
+      "unit_rents": [
+        1400.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 1014.0,
+      "utilities": 901.08,
+      "maintenance": 160.0,
+      "other": 0.0,
+      "expenses": 4374.08,
+      "net_cash_flow": 625.92
+    },
+    {
+      "month": "2026-07",
+      "status": "Actual",
+      "rent": 5300.0,
+      "unit_rents": [
+        1700.0,
+        1750.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 637.29,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 2936.29,
+      "net_cash_flow": 2363.71
+    },
+    {
+      "month": "2026-08",
+      "status": "Actual",
+      "rent": 5450.0,
+      "unit_rents": [
+        1700.0,
+        1900.0,
+        1850.0
+      ],
+      "mortgage": 2299.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 2299.0,
+      "net_cash_flow": 3151.0
+    },
+    {
+      "month": "2026-09",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2026-10",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2026-11",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2026-12",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-01",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-02",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-03",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-04",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-05",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-06",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-07",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-08",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-09",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-10",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-11",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2027-12",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-01",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-02",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-03",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-04",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-05",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-06",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-07",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-08",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-09",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-10",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-11",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    },
+    {
+      "month": "2028-12",
+      "status": "No Data",
+      "rent": 0.0,
+      "unit_rents": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-01-20",
+      "month": "2026-01",
+      "category": "Repairs",
+      "bucket": "maintenance",
+      "description": "Fix wall in Bathroom",
+      "amount": 246.0,
+      "notes": "Armando fixed it",
+      "placeholder": false
+    },
+    {
+      "date": "2026-01-26",
+      "month": "2026-01",
+      "category": "Repairs",
+      "bucket": "maintenance",
+      "description": "Bathroom",
+      "amount": 100.0,
+      "notes": "Armando",
+      "placeholder": false
+    },
+    {
+      "date": "2026-02-11",
+      "month": "2026-02",
+      "category": "Repairs",
+      "bucket": "maintenance",
+      "description": "Fix Hvac",
+      "amount": 410.0,
+      "notes": "Hvac issue",
+      "placeholder": false
+    },
+    {
+      "date": "2026-04-24",
+      "month": "2026-04",
+      "category": "Repairs",
+      "bucket": "maintenance",
+      "description": "AC issue",
+      "amount": 410.0,
+      "notes": "Bash fixed AC",
+      "placeholder": false
+    },
+    {
+      "date": "2026-05-07",
+      "month": "2026-05",
+      "category": "Repairs",
+      "bucket": "maintenance",
+      "description": "AC issue",
+      "amount": 285.0,
+      "notes": "Bash fixed AC",
+      "placeholder": false
+    },
+    {
+      "date": "2026-05-18",
+      "month": "2026-05",
+      "category": "Lawn/Snow",
+      "bucket": "maintenance",
+      "description": "Cut grass",
+      "amount": 30.0,
+      "notes": "Grass cut",
+      "placeholder": false
+    },
+    {
+      "date": "2026-05-18",
+      "month": "2026-05",
+      "category": "Maintenance",
+      "bucket": "maintenance",
+      "description": "Trash removal",
+      "amount": 250.0,
+      "notes": "Armando",
+      "placeholder": false
+    },
+    {
+      "date": "2026-06-01",
+      "month": "2026-06",
+      "category": "Maintenance",
+      "bucket": "maintenance",
+      "description": "Clean gutter",
+      "amount": 135.0,
+      "notes": "Gutters cleaned",
+      "placeholder": false
+    },
+    {
+      "date": "2026-06-09",
+      "month": "2026-06",
+      "category": "Lawn/Snow",
+      "bucket": "maintenance",
+      "description": "Cut grass",
+      "amount": 25.0,
+      "notes": "cut grass",
+      "placeholder": false
+    },
+    {
+      "date": "2026-06-15",
+      "month": "2026-06",
+      "category": "Insurance",
+      "bucket": "insurance",
+      "description": "Flood Insurance",
+      "amount": 1014.0,
+      "notes": "Floor insurnace",
+      "placeholder": false
+    }
+  ],
+  "rent_roll": [
+    {
+      "unit": "Unit 1",
+      "tenant": "Unit 1 Tenant",
+      "lease_start": "2025-08-01",
+      "lease_end": "2026-08-01",
+      "rent": 1400.0,
+      "deposit": 1200.0
+    },
+    {
+      "unit": "Unit 2",
+      "tenant": "Unit 2 Tenant",
+      "lease_start": "2025-08-01",
+      "lease_end": "2026-08-01",
+      "rent": 1750.0,
+      "deposit": 1750.0
+    },
+    {
+      "unit": "Unit 3",
+      "tenant": "Unit 3 Tenant",
+      "lease_start": "2026-03-01",
+      "lease_end": "2027-03-01",
+      "rent": 1750.0,
+      "deposit": 1750.0
+    }
+  ],
+  "leases": [
+    {
+      "unit": "Unit 1",
+      "tenant": "Unit 1 Tenant",
+      "lease_start": "2025-08-01",
+      "lease_end": "2026-08-01",
+      "rent": 1400.0,
+      "deposit": 1200.0,
+      "days_until_expiration": 33,
+      "active": true
+    },
+    {
+      "unit": "Unit 2",
+      "tenant": "Unit 2 Tenant",
+      "lease_start": "2025-08-01",
+      "lease_end": "2026-08-01",
+      "rent": 1750.0,
+      "deposit": 1750.0,
+      "days_until_expiration": 33,
+      "active": true
+    },
+    {
+      "unit": "Unit 3",
+      "tenant": "Unit 3 Tenant",
+      "lease_start": "2026-03-01",
+      "lease_end": "2027-03-01",
+      "rent": 1750.0,
+      "deposit": 1750.0,
+      "days_until_expiration": 245,
+      "active": true
+    }
+  ],
+  "occupancy": {
+    "units_total": 3,
+    "units_occupied": 3,
+    "rate": 1.0,
+    "monthly_rent_roll": 4900.0,
+    "deposits_held": 4700.0
+  },
+  "utilities": [
+    {
+      "month": "2026-01",
+      "electric": 522.0,
+      "gas": 261.97,
+      "water": 253.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 1096.97
+    },
+    {
+      "month": "2026-02",
+      "electric": 522.0,
+      "gas": 317.46,
+      "water": 250.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 1149.46
+    },
+    {
+      "month": "2026-03",
+      "electric": 522.0,
+      "gas": 406.3,
+      "water": 218.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 1206.3
+    },
+    {
+      "month": "2026-04",
+      "electric": 522.0,
+      "gas": 231.08,
+      "water": 240.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 1053.08
+    },
+    {
+      "month": "2026-05",
+      "electric": 522.0,
+      "gas": 195.22,
+      "water": 280.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 1057.22
+    },
+    {
+      "month": "2026-06",
+      "electric": 522.0,
+      "gas": 79.08,
+      "water": 240.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 901.08
+    },
+    {
+      "month": "2026-07",
+      "electric": 522.0,
+      "gas": 55.29,
+      "water": 0.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 637.29
+    }
+  ],
+  "years": [
+    {
+      "year": 2026,
+      "rent": 40750.0,
+      "mortgage": 18392.17,
+      "tax": 0.0,
+      "insurance": 1014.0,
+      "utilities": 7101.4,
+      "maintenance": 1891.0,
+      "other": 0.0,
+      "expenses": 28398.57,
+      "net_cash_flow": 12351.43,
+      "has_data": true
+    },
+    {
+      "year": 2027,
+      "rent": 0.0,
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0,
+      "has_data": false
+    },
+    {
+      "year": 2028,
+      "rent": 0.0,
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 0.0,
+      "other": 0.0,
+      "expenses": 0.0,
+      "net_cash_flow": 0.0,
+      "has_data": false
+    }
+  ]
+}

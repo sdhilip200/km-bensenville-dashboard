@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:37:46Z",
+  "generated_at": "2026-07-03T22:54:12Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -170,10 +170,10 @@
       "tax": 0.0,
       "insurance": 0.0,
       "utilities": 637.29,
-      "maintenance": 209.0,
+      "maintenance": 249.0,
       "other": 0.0,
-      "expenses": 3145.29,
-      "net_cash_flow": 2544.71
+      "expenses": 3185.29,
+      "net_cash_flow": 2504.71
     },
     {
       "month": "2026-08",
@@ -622,7 +622,7 @@
       "category": "Cleaning",
       "bucket": "maintenance",
       "description": "Cleaned Unit 1",
-      "amount": 150.0,
+      "amount": 190.0,
       "notes": "",
       "placeholder": false
     }
@@ -785,10 +785,10 @@
       "tax": 0.0,
       "insurance": 1014.0,
       "utilities": 7101.4,
-      "maintenance": 2100.0,
+      "maintenance": 2140.0,
       "other": 0.0,
-      "expenses": 28607.57,
-      "net_cash_flow": 12532.43,
+      "expenses": 28647.57,
+      "net_cash_flow": 12492.43,
       "has_data": true
     },
     {

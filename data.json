@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-07-03T12:23:32Z",
+  "generated_at": "2026-07-03T14:37:13Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
     "categories": [
+      "Cleaning",
       "Insurance",
       "Lawn/Snow",
       "Maintenance",
@@ -21,7 +22,7 @@
       "Unit 2",
       "Unit 3"
     ],
-    "month_min": "2026-01",
+    "month_min": "0206-07",
     "month_max": "2027-12",
     "notes": [
       "Rent is entered per unit per month (long format), so any number of units is supported.",
@@ -30,6 +31,24 @@
     ]
   },
   "months": [
+    {
+      "month": "0206-07",
+      "status": "Actual",
+      "rent": 0.0,
+      "unit_rents": {
+        "Unit 1": 0.0,
+        "Unit 2": 0.0,
+        "Unit 3": 0.0
+      },
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 1667.0,
+      "other": 0.0,
+      "expenses": 1667.0,
+      "net_cash_flow": -1667.0
+    },
     {
       "month": "2026-01",
       "status": "Actual",
@@ -141,9 +160,9 @@
     {
       "month": "2026-07",
       "status": "Actual",
-      "rent": 5300.0,
+      "rent": 5690.0,
       "unit_rents": {
-        "Unit 1": 1700.0,
+        "Unit 1": 2090.0,
         "Unit 2": 1750.0,
         "Unit 3": 1850.0
       },
@@ -151,10 +170,10 @@
       "tax": 0.0,
       "insurance": 0.0,
       "utilities": 637.29,
-      "maintenance": 0.0,
+      "maintenance": 209.0,
       "other": 0.0,
-      "expenses": 2936.29,
-      "net_cash_flow": 2363.71
+      "expenses": 3145.29,
+      "net_cash_flow": 2544.71
     },
     {
       "month": "2026-08",
@@ -465,6 +484,17 @@
   ],
   "transactions": [
     {
+      "date": "0206-07-03",
+      "month": "0206-07",
+      "unit": "Unit 1",
+      "category": "Maintenance",
+      "bucket": "maintenance",
+      "description": "Painted Unit 1",
+      "amount": 1667.0,
+      "notes": "",
+      "placeholder": false
+    },
+    {
       "date": "2026-01-20",
       "month": "2026-01",
       "unit": "Common / Shared",
@@ -573,23 +603,45 @@
       "amount": 1014.0,
       "notes": "Floor insurnace",
       "placeholder": false
+    },
+    {
+      "date": "2026-07-03",
+      "month": "2026-07",
+      "unit": "Unit 1",
+      "category": "Maintenance",
+      "bucket": "maintenance",
+      "description": "Flooring",
+      "amount": 59.0,
+      "notes": "",
+      "placeholder": false
+    },
+    {
+      "date": "2026-07-03",
+      "month": "2026-07",
+      "unit": "Unit 1",
+      "category": "Cleaning",
+      "bucket": "maintenance",
+      "description": "Cleaned Unit 1",
+      "amount": 150.0,
+      "notes": "",
+      "placeholder": false
     }
   ],
   "rent_roll": [
     {
       "unit": "Unit 1",
       "tenant": "Unit 1 Tenant",
-      "lease_start": "2025-08-01",
-      "lease_end": "2026-08-01",
-      "rent": 1400.0,
-      "deposit": 1200.0
+      "lease_start": "2026-07-03",
+      "lease_end": "2027-07-01",
+      "rent": 1700.0,
+      "deposit": 1700.0
     },
     {
       "unit": "Unit 2",
       "tenant": "Unit 2 Tenant",
-      "lease_start": "2025-08-01",
-      "lease_end": "2026-08-01",
-      "rent": 1750.0,
+      "lease_start": "2026-08-01",
+      "lease_end": "2027-08-01",
+      "rent": 1900.0,
       "deposit": 1750.0
     },
     {
@@ -605,22 +657,22 @@
     {
       "unit": "Unit 1",
       "tenant": "Unit 1 Tenant",
-      "lease_start": "2025-08-01",
-      "lease_end": "2026-08-01",
-      "rent": 1400.0,
-      "deposit": 1200.0,
-      "days_until_expiration": 29,
+      "lease_start": "2026-07-03",
+      "lease_end": "2027-07-01",
+      "rent": 1700.0,
+      "deposit": 1700.0,
+      "days_until_expiration": 363,
       "active": true
     },
     {
       "unit": "Unit 2",
       "tenant": "Unit 2 Tenant",
-      "lease_start": "2025-08-01",
-      "lease_end": "2026-08-01",
-      "rent": 1750.0,
+      "lease_start": "2026-08-01",
+      "lease_end": "2027-08-01",
+      "rent": 1900.0,
       "deposit": 1750.0,
-      "days_until_expiration": 29,
-      "active": true
+      "days_until_expiration": 394,
+      "active": false
     },
     {
       "unit": "Unit 3",
@@ -637,8 +689,8 @@
     "units_total": 3,
     "units_occupied": 3,
     "rate": 1.0,
-    "monthly_rent_roll": 4900.0,
-    "deposits_held": 4700.0
+    "monthly_rent_roll": 5350.0,
+    "deposits_held": 5200.0
   },
   "utilities": [
     {
@@ -714,16 +766,29 @@
   ],
   "years": [
     {
+      "year": 206,
+      "rent": 0.0,
+      "mortgage": 0.0,
+      "tax": 0.0,
+      "insurance": 0.0,
+      "utilities": 0.0,
+      "maintenance": 1667.0,
+      "other": 0.0,
+      "expenses": 1667.0,
+      "net_cash_flow": -1667.0,
+      "has_data": true
+    },
+    {
       "year": 2026,
-      "rent": 40750.0,
+      "rent": 41140.0,
       "mortgage": 18392.17,
       "tax": 0.0,
       "insurance": 1014.0,
       "utilities": 7101.4,
-      "maintenance": 1891.0,
+      "maintenance": 2100.0,
       "other": 0.0,
-      "expenses": 28398.57,
-      "net_cash_flow": 12351.43,
+      "expenses": 28607.57,
+      "net_cash_flow": 12532.43,
       "has_data": true
     },
     {

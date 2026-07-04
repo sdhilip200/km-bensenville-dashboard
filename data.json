@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T12:01:16Z",
+  "generated_at": "2026-07-04T14:06:21Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -23,7 +23,7 @@
       "Unit 2",
       "Unit 3"
     ],
-    "month_min": "2006-07",
+    "month_min": "2026-01",
     "month_max": "2027-12",
     "notes": [
       "Rent is entered per unit per month (long format), so any number of units is supported.",
@@ -32,24 +32,6 @@
     ]
   },
   "months": [
-    {
-      "month": "2006-07",
-      "status": "Actual",
-      "rent": 0.0,
-      "unit_rents": {
-        "Unit 1": 0.0,
-        "Unit 2": 0.0,
-        "Unit 3": 0.0
-      },
-      "mortgage": 0.0,
-      "tax": 0.0,
-      "insurance": 0.0,
-      "utilities": 0.0,
-      "maintenance": 1667.0,
-      "other": 0.0,
-      "expenses": 1667.0,
-      "net_cash_flow": -1667.0
-    },
     {
       "month": "2026-01",
       "status": "Actual",
@@ -171,10 +153,10 @@
       "tax": 0.0,
       "insurance": 0.0,
       "utilities": 637.29,
-      "maintenance": 460.0,
+      "maintenance": 2127.0,
       "other": 0.0,
-      "expenses": 3396.29,
-      "net_cash_flow": 2293.71
+      "expenses": 5063.29,
+      "net_cash_flow": 626.71
     },
     {
       "month": "2026-08",
@@ -485,17 +467,6 @@
   ],
   "transactions": [
     {
-      "date": "2006-07-03",
-      "month": "2006-07",
-      "unit": "Unit 1",
-      "category": "Maintenance",
-      "bucket": "maintenance",
-      "description": "Painted Unit 1",
-      "amount": 1667.0,
-      "notes": "",
-      "placeholder": false
-    },
-    {
       "date": "2026-01-20",
       "month": "2026-01",
       "unit": "Common / Shared",
@@ -602,7 +573,7 @@
       "bucket": "insurance",
       "description": "Flood Insurance",
       "amount": 1014.0,
-      "notes": "Floor insurnace",
+      "notes": "Flood insurnace",
       "placeholder": false
     },
     {
@@ -635,6 +606,17 @@
       "bucket": "maintenance",
       "description": "Dashboard",
       "amount": 211.0,
+      "notes": "",
+      "placeholder": false
+    },
+    {
+      "date": "2026-07-04",
+      "month": "2026-07",
+      "unit": "Unit 1",
+      "category": "Maintenance",
+      "bucket": "maintenance",
+      "description": "Painted Unit 1",
+      "amount": 1667.0,
       "notes": "",
       "placeholder": false
     }
@@ -778,29 +760,16 @@
   ],
   "years": [
     {
-      "year": 2006,
-      "rent": 0.0,
-      "mortgage": 0.0,
-      "tax": 0.0,
-      "insurance": 0.0,
-      "utilities": 0.0,
-      "maintenance": 1667.0,
-      "other": 0.0,
-      "expenses": 1667.0,
-      "net_cash_flow": -1667.0,
-      "has_data": true
-    },
-    {
       "year": 2026,
       "rent": 41140.0,
       "mortgage": 18392.17,
       "tax": 0.0,
       "insurance": 1014.0,
       "utilities": 7101.4,
-      "maintenance": 2351.0,
+      "maintenance": 4018.0,
       "other": 0.0,
-      "expenses": 28858.57,
-      "net_cash_flow": 12281.43,
+      "expenses": 30525.57,
+      "net_cash_flow": 10614.43,
       "has_data": true
     },
     {

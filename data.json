@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T01:51:26Z",
+  "generated_at": "2026-07-10T05:53:48Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -152,11 +152,11 @@
       "mortgage": 2299.0,
       "tax": 0.0,
       "insurance": 0.0,
-      "utilities": 637.29,
-      "maintenance": 2127.0,
+      "utilities": 863.29,
+      "maintenance": 2169.0,
       "other": 0.0,
-      "expenses": 5063.29,
-      "net_cash_flow": 626.71
+      "expenses": 5331.29,
+      "net_cash_flow": 358.71
     },
     {
       "month": "2026-08",
@@ -619,6 +619,17 @@
       "amount": 1667.0,
       "notes": "",
       "placeholder": false
+    },
+    {
+      "date": "2026-07-13",
+      "month": "2026-07",
+      "unit": "Unit 3",
+      "category": "Repairs",
+      "bucket": "maintenance",
+      "description": "Kitchen Faucet",
+      "amount": 42.0,
+      "notes": "Kitchen faucet needed to be replaced",
+      "placeholder": false
     }
   ],
   "rent_roll": [
@@ -751,11 +762,11 @@
       "month": "2026-07",
       "electric": 522.0,
       "gas": 55.29,
-      "water": 0.0,
+      "water": 226.0,
       "trash": 0.0,
       "internet": 60.0,
       "other": 0.0,
-      "total": 637.29
+      "total": 863.29
     }
   ],
   "years": [
@@ -765,11 +776,11 @@
       "mortgage": 18392.17,
       "tax": 0.0,
       "insurance": 1014.0,
-      "utilities": 7101.4,
-      "maintenance": 4018.0,
+      "utilities": 7327.4,
+      "maintenance": 4060.0,
       "other": 0.0,
-      "expenses": 30525.57,
-      "net_cash_flow": 10614.43,
+      "expenses": 30793.57,
+      "net_cash_flow": 10346.43,
       "has_data": true
     },
     {

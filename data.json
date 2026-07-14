@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:04:23Z",
+  "generated_at": "2026-07-14T21:28:03Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -153,10 +153,10 @@
       "tax": 0.0,
       "insurance": 0.0,
       "utilities": 863.29,
-      "maintenance": 2174.0,
+      "maintenance": 2194.0,
       "other": 0.0,
-      "expenses": 5336.29,
-      "net_cash_flow": 353.71
+      "expenses": 5356.29,
+      "net_cash_flow": 333.71
     },
     {
       "month": "2026-08",
@@ -627,7 +627,7 @@
       "category": "Repairs",
       "bucket": "maintenance",
       "description": "Kitchen Faucet",
-      "amount": 47.0,
+      "amount": 67.0,
       "notes": "Kitchen faucet needed to be replaced",
       "placeholder": false
     }
@@ -777,10 +777,10 @@
       "tax": 0.0,
       "insurance": 1014.0,
       "utilities": 7327.4,
-      "maintenance": 4065.0,
+      "maintenance": 4085.0,
       "other": 0.0,
-      "expenses": 30798.57,
-      "net_cash_flow": 10341.43,
+      "expenses": 30818.57,
+      "net_cash_flow": 10321.43,
       "has_data": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T03:54:36Z",
+  "generated_at": "2026-07-22T06:21:06Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -154,10 +154,10 @@
       "tax": 0.0,
       "insurance": 0.0,
       "utilities": 863.29,
-      "maintenance": 2394.0,
+      "maintenance": 2436.0,
       "other": 0.0,
-      "expenses": 5556.29,
-      "net_cash_flow": 133.71
+      "expenses": 5598.29,
+      "net_cash_flow": 91.71
     },
     {
       "month": "2026-08",
@@ -650,8 +650,8 @@
       "category": "Other",
       "bucket": "maintenance",
       "description": "Facebook marketing",
-      "amount": 0.0,
-      "notes": "",
+      "amount": 42.0,
+      "notes": "ran ads to rent apartment",
       "placeholder": false
     }
   ],
@@ -800,10 +800,10 @@
       "tax": 0.0,
       "insurance": 1014.0,
       "utilities": 7327.4,
-      "maintenance": 4285.0,
+      "maintenance": 4327.0,
       "other": 0.0,
-      "expenses": 31018.57,
-      "net_cash_flow": 10121.43,
+      "expenses": 31060.57,
+      "net_cash_flow": 10079.43,
       "has_data": true
     },
     {

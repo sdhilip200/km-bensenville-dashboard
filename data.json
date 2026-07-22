@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T00:14:15Z",
+  "generated_at": "2026-07-22T03:54:36Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -8,6 +8,7 @@
       "Insurance",
       "Lawn/Snow",
       "Maintenance",
+      "Other",
       "Repairs",
       "other"
     ],
@@ -640,6 +641,17 @@
       "description": "Leak water/AC",
       "amount": 200.0,
       "notes": "This was to stop water that was leaking",
+      "placeholder": false
+    },
+    {
+      "date": "2026-07-15",
+      "month": "2026-07",
+      "unit": "Unit 1",
+      "category": "Other",
+      "bucket": "maintenance",
+      "description": "Facebook marketing",
+      "amount": 0.0,
+      "notes": "",
       "placeholder": false
     }
   ],

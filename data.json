@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:52:47Z",
+  "generated_at": "2026-08-01T01:48:22Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -144,11 +144,11 @@
     {
       "month": "2026-07",
       "status": "Actual",
-      "rent": 5690.0,
+      "rent": 5440.0,
       "unit_rents": {
         "Unit 1": 2090.0,
         "Unit 2": 1750.0,
-        "Unit 3": 1850.0
+        "Unit 3": 1600.0
       },
       "mortgage": 2299.0,
       "tax": 0.0,
@@ -157,16 +157,16 @@
       "maintenance": 2436.0,
       "other": 0.0,
       "expenses": 5598.29,
-      "net_cash_flow": 91.71
+      "net_cash_flow": -158.29
     },
     {
       "month": "2026-08",
       "status": "Actual",
-      "rent": 5450.0,
+      "rent": 5600.0,
       "unit_rents": {
         "Unit 1": 1700.0,
         "Unit 2": 1900.0,
-        "Unit 3": 1850.0
+        "Unit 3": 2000.0
       },
       "mortgage": 2299.0,
       "tax": 0.0,
@@ -175,7 +175,7 @@
       "maintenance": 0.0,
       "other": 0.0,
       "expenses": 2299.0,
-      "net_cash_flow": 3151.0
+      "net_cash_flow": 3301.0
     },
     {
       "month": "2026-09",
@@ -689,7 +689,7 @@
       "lease_end": "2027-07-01",
       "rent": 1700.0,
       "deposit": 1700.0,
-      "days_until_expiration": 335,
+      "days_until_expiration": 334,
       "active": true
     },
     {
@@ -699,8 +699,8 @@
       "lease_end": "2027-08-01",
       "rent": 1900.0,
       "deposit": 1750.0,
-      "days_until_expiration": 366,
-      "active": false
+      "days_until_expiration": 365,
+      "active": true
     },
     {
       "unit": "Unit 3",
@@ -709,7 +709,7 @@
       "lease_end": "2027-03-01",
       "rent": 1750.0,
       "deposit": 1750.0,
-      "days_until_expiration": 213,
+      "days_until_expiration": 212,
       "active": true
     }
   ],
@@ -795,7 +795,7 @@
   "years": [
     {
       "year": 2026,
-      "rent": 41140.0,
+      "rent": 41040.0,
       "mortgage": 18392.17,
       "tax": 0.0,
       "insurance": 1014.0,
@@ -803,7 +803,7 @@
       "maintenance": 4327.0,
       "other": 0.0,
       "expenses": 31060.57,
-      "net_cash_flow": 10079.43,
+      "net_cash_flow": 9979.43,
       "has_data": true
     },
     {

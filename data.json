@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:27:04Z",
+  "generated_at": "2026-08-21T04:07:56Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -162,20 +162,20 @@
     {
       "month": "2026-08",
       "status": "Actual",
-      "rent": 5600.0,
+      "rent": 5700.0,
       "unit_rents": {
         "Unit 1": 1700.0,
         "Unit 2": 1900.0,
-        "Unit 3": 2000.0
+        "Unit 3": 2100.0
       },
       "mortgage": 2299.0,
       "tax": 0.0,
       "insurance": 0.0,
       "utilities": 582.0,
-      "maintenance": 0.0,
+      "maintenance": 60.0,
       "other": 0.0,
-      "expenses": 2881.0,
-      "net_cash_flow": 2719.0
+      "expenses": 2941.0,
+      "net_cash_flow": 2759.0
     },
     {
       "month": "2026-09",
@@ -653,6 +653,17 @@
       "amount": 42.0,
       "notes": "ran ads to rent apartment",
       "placeholder": false
+    },
+    {
+      "date": "2026-08-16",
+      "month": "2026-08",
+      "unit": "Common / Shared",
+      "category": "other",
+      "bucket": "maintenance",
+      "description": "batteries",
+      "amount": 60.0,
+      "notes": "batteries for camera",
+      "placeholder": false
     }
   ],
   "rent_roll": [
@@ -805,15 +816,15 @@
   "years": [
     {
       "year": 2026,
-      "rent": 41040.0,
+      "rent": 41140.0,
       "mortgage": 18392.17,
       "tax": 0.0,
       "insurance": 1014.0,
       "utilities": 7909.4,
-      "maintenance": 4327.0,
+      "maintenance": 4387.0,
       "other": 0.0,
-      "expenses": 31642.57,
-      "net_cash_flow": 9397.43,
+      "expenses": 31702.57,
+      "net_cash_flow": 9437.43,
       "has_data": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:11:19Z",
+  "generated_at": "2026-09-15T00:44:18Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -700,7 +700,7 @@
       "lease_end": "2027-07-01",
       "rent": 1700.0,
       "deposit": 1000.0,
-      "days_until_expiration": 290,
+      "days_until_expiration": 289,
       "active": true
     },
     {
@@ -710,7 +710,7 @@
       "lease_end": "2027-08-01",
       "rent": 1900.0,
       "deposit": 1750.0,
-      "days_until_expiration": 321,
+      "days_until_expiration": 320,
       "active": true
     },
     {
@@ -720,7 +720,7 @@
       "lease_end": "2027-03-01",
       "rent": 1750.0,
       "deposit": 1750.0,
-      "days_until_expiration": 168,
+      "days_until_expiration": 167,
       "active": true
     }
   ],

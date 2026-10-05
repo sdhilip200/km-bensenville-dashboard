@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:09:46Z",
+  "generated_at": "2026-10-05T09:17:22Z",
   "property": "KM Bensenville",
   "currency": "USD",
   "meta": {
@@ -197,21 +197,21 @@
     },
     {
       "month": "2026-10",
-      "status": "No Data",
-      "rent": 0.0,
+      "status": "Actual",
+      "rent": 5450.0,
       "unit_rents": {
-        "Unit 1": 0.0,
-        "Unit 2": 0.0,
-        "Unit 3": 0.0
+        "Unit 1": 1700.0,
+        "Unit 2": 1900.0,
+        "Unit 3": 1850.0
       },
-      "mortgage": 0.0,
+      "mortgage": 2999.0,
       "tax": 0.0,
       "insurance": 0.0,
-      "utilities": 0.0,
+      "utilities": 336.0,
       "maintenance": 0.0,
       "other": 0.0,
-      "expenses": 0.0,
-      "net_cash_flow": 0.0
+      "expenses": 3335.0,
+      "net_cash_flow": 2115.0
     },
     {
       "month": "2026-11",
@@ -821,20 +821,30 @@
       "internet": 60.0,
       "other": 0.0,
       "total": 909.08
+    },
+    {
+      "month": "2026-10",
+      "electric": 276.0,
+      "gas": 0.0,
+      "water": 0.0,
+      "trash": 0.0,
+      "internet": 60.0,
+      "other": 0.0,
+      "total": 336.0
     }
   ],
   "years": [
     {
       "year": 2026,
-      "rent": 46590.0,
-      "mortgage": 20691.17,
+      "rent": 52040.0,
+      "mortgage": 23690.17,
       "tax": 0.0,
       "insurance": 1014.0,
-      "utilities": 9138.25,
+      "utilities": 9474.25,
       "maintenance": 4387.0,
       "other": 0.0,
-      "expenses": 35230.42,
-      "net_cash_flow": 11359.58,
+      "expenses": 38565.42,
+      "net_cash_flow": 13474.58,
       "has_data": true
     },
     {
